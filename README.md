@@ -1,6 +1,8 @@
 # CinePulse — Cinema Screening & Ticket Booking System
 ### A Full-Stack DBMS Academic Capstone Project in Third Normal Form (3NF)
 
+Video Presentation: https://drive.google.com/drive/u/7/folders/1Dyfo8zA8ThAIm0azFvDZ7uODIuG6ar9h
+
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
